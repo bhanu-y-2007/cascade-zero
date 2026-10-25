@@ -1,0 +1,13 @@
+node_modules/
+.venv/
+.env
+.vite/
+dist/
+__pycache__/
+*.pyc
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+*.db
+scratch*.py
+
